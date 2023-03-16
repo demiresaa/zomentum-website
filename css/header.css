@@ -1,0 +1,308 @@
+body{
+    width: 100%;
+    margin: 0 auto;
+}
+#navbar {
+    background-color: white;
+    
+    
+}
+#logo{
+    padding: 20px;
+    padding-left: 40px;
+}
+#menu{
+    float: right;
+    justify-content: end;
+    margin-left: 50px;
+}
+#menu a{
+justify-content: right;
+margin-right: 20px;
+text-align: center;
+padding-right: 30px;
+margin-top: 20px;
+font-weight: bold;
+font-size: small;
+color:black ;
+}
+
+#menu a:hover{
+    color:  #0dcaf0;
+
+}
+#loginIcon{
+    margin-right: 5px;
+}
+
+#getDemo{
+    border: 1px solid #2F70FE;
+    border-radius: 2px;
+    color: #2F70FE!important;
+    padding: 12px;
+    padding-left: 22px ;
+}
+
+#getDemo:hover{
+    color: #0dcaf0!important;
+}
+.img1{
+    width: 1519.5px;
+    height: 533px;
+}
+.info{
+    width: 100%;
+}
+.img2{
+    position: absolute;
+    left: 6.81%;
+    right: 66.22%;
+    top: 57%;
+    
+    bottom: 82.35%;
+}
+.img-text{
+    position: absolute;
+    top:250px;
+    text-align: center;
+    height: 200px;
+    left:450px;
+    width: 650px;
+}
+.img-text p{
+    color: white;
+}
+.img-text h2{
+    font-family: 'Circular Std';
+    font-style: larger;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 65px;
+    /* or 135% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.register{
+    border: 2px solid black;
+    color: white;
+    padding: 13px;
+    background: black;
+    text-decoration: none;
+    margin:auto 0 ;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 3px;
+
+}
+.register:hover{
+    border: 1px solid white;
+}
+.img3{
+    position: absolute;
+    bottom:110px;
+    left: 1000px;
+
+}
+.img2-text{
+    background: rgba(0, 255, 133, 0.08);
+    height: 550px;
+    text-align: center;
+    margin-top: -60px;
+    
+}
+.img2-text h2{
+    justify-content: center;
+    top: 650px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: black;
+    font-weight: bold;
+    opacity: 1;
+}
+.frame3{
+    position: absolute;
+    right: 1300px;
+    top: 1000px;
+    height: 80px;
+
+}
+.frame4{
+    position: absolute;
+    left: 1250px;
+    width: 80px;
+    top: 800px;
+
+}
+#rowMenu{
+    padding-top: 80px;
+    justify-content: center;
+    text-align: start;
+    height: 400px;
+}
+.main1{
+    width: 300px;
+    margin-left: 200px;
+    margin-bottom: 0;
+}
+#main1Text h3{
+    width: 200px;
+    margin-left: 150px;    
+
+}
+
+#main1Text p{
+    width: 300px;
+    margin-left: 150px;    
+    font-weight: bold;
+}
+#rowMenu2{
+    justify-content: center;
+    text-align: start;
+    padding-bottom: 100px;
+    
+}
+#main2{
+    width: 350px;
+    margin-left: 200px;
+    margin-bottom: 0;
+}
+
+#main2Text p{
+    width: 400px;
+    margin-left: 150px;    
+    font-weight: bold;
+
+}
+#main2Text h3{
+    width: 400px;
+    margin-left: 150px; 
+}
+#main2Text a{
+    width: 400px;
+    margin-left: 150px;
+    text-decoration:none ;
+}
+#rowMenu3{
+    justify-content: center;
+    text-align: start;
+    padding-bottom: 100px;
+    
+}
+#main3{
+    width: 300px;
+    margin-left: 200px;
+    margin-bottom: 0;
+}
+
+#main3Text p{
+    width: 400px;
+    margin-left: 150px;    
+    font-weight: bold;
+
+}
+#main3Text h3{
+    width: 400px;
+    margin-left: 150px; 
+}
+#main3Text a{
+    width: 400px;
+    margin-left: 150px;
+    text-decoration:none ;
+}
+#rowMenu4{
+    justify-content: center;
+    text-align: start;
+    padding-bottom: 100px;
+    
+}
+#main4{
+    width: 300px;
+    margin-left: 200px;
+    margin-bottom: 0;
+}
+
+#main4Text p{
+    width: 400px;
+    margin-left: 150px;    
+    font-weight: bold;
+    font-size: 15px;
+
+}
+#main4Text h3{
+    width: 400px;
+    margin-left: 150px; 
+}
+#main4Text a{
+    width: 400px;
+    margin-left: 150px;
+    text-decoration:none ;
+}
+
+#rowMenu5{
+    justify-content: center;
+    text-align: start;
+    padding-bottom: 100px;
+    
+}
+#main5{
+    width: 250px;
+    margin-left: 200px;
+    margin-bottom: 0;
+}
+
+#main5Text p{
+    width: 400px;
+    margin-left: 150px;    
+    font-weight: bold;
+    font-size: 15px;
+
+}
+#main5Text h3{
+    width: 400px;
+    margin-left: 150px; 
+}
+#main5Text a{
+    width: 400px;
+    margin-left: 150px;
+    text-decoration:none ;
+}
+
+
+.info{
+    background-color: black;
+    width: 100%;
+    padding: 80px;
+    color: white;
+    padding-bottom:0 ;
+}
+.info h6{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.info a{
+    color: white;
+    text-decoration: none;
+    display: list-item;
+    list-style-type: none;
+    padding-bottom: 10px;
+}
+.info a:hover{
+    color: gray;
+}
+#son{
+    margin-top: 40px;
+    padding-bottom: 40px;
+    font-size: medium;
+
+}
+#son h6{
+    font-size: medium;
+
+}
+#sonn{
+    float: left;
+    padding-left: 700px;
+}
